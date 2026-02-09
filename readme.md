@@ -19,7 +19,7 @@ A simple Python mini project that allows users to enter time in seconds and disp
 ## ▶ How to Run
 
 ```bash
-python timer.py
+python main.py
 ```
 
 ##  What I Learned
